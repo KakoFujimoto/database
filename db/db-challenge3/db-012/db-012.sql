@@ -1,7 +1,4 @@
 begin;
-update chat_rooms c
-left join chat_members cm
-on c.id = cm.chat_id
-set c.is_sent = 0 , c.updated_at = now()
-where c.is_deleted = 0 and not(cm.user_id = 1);
+update chat_rooms set is_sent = 0 , updated_at = now() , update_user_id = 1
+where is_deleted = 0 and id not in (select distinct chat_id from chat_members where user_id = (1) group by chat_id);
 commit;
