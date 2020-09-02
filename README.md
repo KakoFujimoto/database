@@ -1,4 +1,5 @@
-# QUELCODE データベース課題
+# ER図作成
+(要件定義)[https://github.com/KakoFujimoto/quelcode-db]
 
 ## ディレクトリ解説
 
