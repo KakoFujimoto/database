@@ -1,5 +1,5 @@
 # ER図作成
-(https://github.com/KakoFujimoto/quelcode-db)[要件定義]
+[要件定義](https://github.com/KakoFujimoto/quelcode-db)
 
 ## ディレクトリ解説
 
