@@ -1,10 +1,11 @@
-# QUELCODE データベース課題
+# DML文
+[要件定義](https://docs.google.com/document/d/1z49RCAEeJaD6HiZM_ZCKujJkhYyYjo9ZGP8SQb8aXU0/edit)を元にDML文を作成
 
 ## ディレクトリ解説
 
 ```
 quelcode-php
-├── db ....................... 作成した課題の提出場所
+├── db ....................... 作成したSQL文の格納場所
 ├── mysql5.7
 │   ├── mysql .................. 起動すると作られる。データ永続化用
 │   ├── mysqlvolume ............ mysqlコンテナにマウントされる。ホストとのファイル受け渡し用
