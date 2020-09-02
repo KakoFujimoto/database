@@ -1,5 +1,5 @@
 # DML文
-[要件定義]()を元にDML文を作成
+[要件定義](https://docs.google.com/document/d/1z49RCAEeJaD6HiZM_ZCKujJkhYyYjo9ZGP8SQb8aXU0/edit)を元にDML文を作成
 
 ## ディレクトリ解説
 
