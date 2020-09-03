@@ -1,5 +1,9 @@
-# DML文
+#データベースの学習
 [要件定義](https://docs.google.com/document/d/1z49RCAEeJaD6HiZM_ZCKujJkhYyYjo9ZGP8SQb8aXU0/edit)を元にDML文を作成
+
+- ER図作成
+- DML文作成
+
 
 ## ディレクトリ解説
 
@@ -24,3 +28,4 @@ MySQLバージョン 5.7.x
 Dockerを立ち上げた後以下のアドレスにアクセスする
 
 http://localhost:10081
+
